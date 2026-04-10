@@ -3,9 +3,10 @@ const TelegramBot = require('node-telegram-bot-api');
 // ==============================================
 // 🔑 CONFIGURAÇÕES
 // ==============================================
-const token = 'SEU_TOKEN_DO_TELEGRAM_AQUI'; // Coloque o token do seu bot
-const apiKey = 'SUA_CHAVE_DA_API_AQUI';     // Coloque a chave que você usa nas salas
-const quantidadeLikes = 100;                // Quantidade de likes que vai ser enviada
+const token = 'const token = '8649274157:AAF53bChEu4uFtngfj0XX748hAvbYx6x4ns';
+  '; // Coloque o token do seu bot
+const apiKey = 'https://core.telegram.org/bots/api';     // Coloque a chave que você usa nas salas
+const quantidadeLikes = 200;                // Quantidade de likes que vai ser enviada
 const regiao = 'br';                        // br = Brasil, ind = India, us = USA
 
 // ==============================================
